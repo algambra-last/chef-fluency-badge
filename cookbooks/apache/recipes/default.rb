@@ -13,5 +13,3 @@ service 'httpd' do
     service_name 'httpd'
     action [:start, :enable]
 end
-
-
